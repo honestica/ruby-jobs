@@ -1,0 +1,127 @@
+{
+  "practitioners": [
+    {
+      "id": 1,
+      "first_name": "Gregory",
+      "last_name": "House",
+      "express_delivery": true
+    },
+    {
+      "id": 2,
+      "first_name": "Leonard",
+      "last_name": "McCoy",
+      "express_delivery": false
+    },
+    {
+      "id": 3,
+      "first_name": "John",
+      "last_name": "Carter",
+      "express_delivery": true
+    },
+    {
+      "id": 4,
+      "first_name": "Perry",
+      "last_name": "Cox",
+      "express_delivery": false
+    }
+  ],
+  "communications": [
+    {
+      "id": 1,
+      "practitioner_id": 1,
+      "pages_number": 1,
+      "color": true,
+      "sent_at": "2019-03-01 10:00:00"
+    },
+    {
+      "id": 2,
+      "practitioner_id": 1,
+      "pages_number": 2,
+      "color": false,
+      "sent_at": "2019-03-01 18:00:00"
+    },
+    {
+      "id": 3,
+      "practitioner_id": 1,
+      "pages_number": 8,
+      "color": false,
+      "sent_at": "2019-03-01 12:00:00"
+    },
+    {
+      "id": 4,
+      "practitioner_id": 2,
+      "pages_number": 7,
+      "color": false,
+      "sent_at": "2019-03-02 09:00:00"
+    },
+    {
+      "id": 5,
+      "practitioner_id": 3,
+      "pages_number": 2,
+      "color": true,
+      "sent_at": "2019-03-02 11:00:00"
+    },
+    {
+      "id": 6,
+      "practitioner_id": 4,
+      "pages_number": 1,
+      "sent_at": "2019-03-03 18:00:00"
+    },
+    {
+      "id": 7,
+      "practitioner_id": 1,
+      "pages_number": 1,
+      "color": false,
+      "sent_at": "2019-03-03 23:00:00"
+    },
+    {
+      "id": 8,
+      "practitioner_id": 2,
+      "pages_number": 1,
+      "color": false,
+      "sent_at": "2019-03-03 14:00:00"
+    },
+    {
+      "id": 9,
+      "practitioner_id": 3,
+      "pages_number": 6,
+      "color": true,
+      "sent_at": "2019-03-04 13:00:00"
+    },
+    {
+      "id": 10,
+      "practitioner_id": 4,
+      "pages_number": 8,
+      "color": false,
+      "sent_at": "2019-03-04 15:00:00"
+    },
+    {
+      "id": 11,
+      "practitioner_id": 1,
+      "pages_number": 16,
+      "color": true,
+      "sent_at": "2019-03-05 13:00:00"
+    },
+    {
+      "id": 12,
+      "practitioner_id": 4,
+      "pages_number": 2,
+      "color": false,
+      "sent_at": "2019-03-05 15:00:00"
+    },
+    {
+      "id": 13,
+      "practitioner_id": 2,
+      "pages_number": 6,
+      "color": true,
+      "sent_at": "2019-03-06 18:00:00"
+    },
+    {
+      "id": 14,
+      "practitioner_id": 4,
+      "pages_number": 22,
+      "color": false,
+      "sent_at": "2019-03-06 19:00:00"
+    }
+  ]
+}
