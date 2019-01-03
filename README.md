@@ -11,7 +11,7 @@ Nous sommes particulièrement intéressés par du code :
 - propre
 - évolutif
 - robuste (n'oubliez pas les edge case, utilisez les exceptions quand nécessaire, ...)
-- testé (nous pratiquons le TDD, les PRs sans test sont refusées che Lifen)
+- testé (nous pratiquons le TDD, les PRs sans test sont refusées chez Lifen)
 
 ## Déroulement du test
 
