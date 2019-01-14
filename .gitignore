@@ -1,1 +1,6 @@
 .DS_Store
+
+/level2/log/*
+/level2/tmp/*
+!/level2/log/.keep
+!/level2/tmp/.keep
